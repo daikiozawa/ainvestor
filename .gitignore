@@ -691,4 +691,8 @@ dmypy.json
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 
+# SQLite3 file
+*.db
+*.db-journal
+
 # End of https://www.gitignore.io/api/c,c++,csharp,python,visualstudio,visualstudiocode
